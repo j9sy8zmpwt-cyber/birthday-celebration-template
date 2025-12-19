@@ -13,19 +13,26 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Shivam Here],
 
-Your personalized birthday message goes here.
+I dont have So much things to Say
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Mujhe nhi pata me kaise show kru ki tum kaisi ho mujhe badi bate bolna nhi
+aata tumhari beauty me kabhi bool ke nhi express kar sakta
+i need a moon 🌕for that...uske baad bhi chand se jayada log 
+tumhari tareef karenge. Hope tumhari life jaisi bhi ho tum 
+usko acha bana logi tum utni storong ho mujhe pata hai..
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+
+There was a English chapter in my 12th usme likha tha 
+beauty kabhi purani ya fiiki nhi hoti beauty hamesha 
+time ke sath aor beautifull ✨ho jati hai tumko dekh ke 
+bhi waisa hi lagta 
+
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Shivam 💜`;
 
   // Handle page transitions
   useEffect(() => {
