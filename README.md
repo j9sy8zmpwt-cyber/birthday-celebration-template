@@ -21,7 +21,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2025-09-23T00:00:00");
 ```
 
 **Format Explanation:**
